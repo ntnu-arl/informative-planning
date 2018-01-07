@@ -5,5 +5,5 @@ This repository will document and further detail, in terms of algorithmic concep
 * Uncertainty-aware Receding Horizon Exploration and Mapping Planner: https://github.com/unr-arl/rhem_planner
 * Receding Horizon Next-Best-View Planner: https://github.com/ethz-asl/nbvplanner
 * Structural Inspection Planner: https://github.com/ethz-asl/StructuralInspectionPlanner
-* Terrain Monitoring Planner: (to-be-open-sourced-by-time-of-publication)
+* Terrain Monitoring Planner: https://github.com/ethz-asl/tmplanner 
 This repository will further contain a dedicated wiki as well as an FAQ section. 
