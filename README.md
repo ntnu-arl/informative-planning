@@ -6,4 +6,5 @@ This repository will document and further detail, in terms of algorithmic concep
 * Receding Horizon Next-Best-View Planner: https://github.com/ethz-asl/nbvplanner
 * Structural Inspection Planner: https://github.com/ethz-asl/StructuralInspectionPlanner
 * Terrain Monitoring Planner: https://github.com/ethz-asl/tmplanner 
+
 This repository will further contain a dedicated wiki as well as an FAQ section. 
